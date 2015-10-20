@@ -1,9 +1,7 @@
 This project is for xiami automatic signin using python and rainmeter interface
-该脚本利用python和rainmeter登陆虾米签到
-
-The main contributor is embolon@gmail.com
-
 Requirement: python3x, python requests, rainmeter
+
+该脚本利用python和rainmeter登陆虾米签到
 需要 python3x，python库requests，和rainmeter
 
 Usage:
