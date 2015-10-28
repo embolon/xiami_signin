@@ -23,11 +23,11 @@ set prompt=[%computername%] $d$s$t$_$p$_$_$+$g
 @cd %~dp0
 python xiami.py your_username your_password
 ```
-
-   your_username => your own username  
-   your_password => your own password  
-   把xiami.bat脚本里面的xiami.py后面的参数改为正确的登录邮箱和密码  
-   如果python脚本不能正确运行请先查看python environment设置是否正确
-
+```
+your_username => your own username  
+your_password => your own password  
+把xiami.bat脚本里面的xiami.py后面的参数改为正确的登录邮箱和密码  
+如果python脚本不能正确运行请先查看python environment设置是否正确
+```
 3. copy the directory to your rainmeter skin directory  
    把该目录复制到rainmeter的皮肤目录内，然后按rainmeter运行即可     
