@@ -17,12 +17,12 @@ Usage
 1. setup python3x, rainmeter, install python requests module
    安装python3x，rainmeter，和python库requests
 2. change xiami.bat
-    '''
+```
     set prompt=[%computername%] $d$s$t$_$p$_$_$+$g
     @cd %~dp0
     python xiami.py your_username your_password
     pause
-    '''
+```
     your_username => your own username
     your_password => your own password
     把xiami.bat脚本里面的xiami.py后面的参数改为正确的登录邮箱和密码
