@@ -1,4 +1,5 @@
-#encoding = utf-8
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 
 #sys.argv[] is the command line input
 
@@ -32,6 +33,3 @@ if __name__ == '__main__':
         wstr = '<user>{}</user><date>{}</date>'.format(username, signDate)
         with open('xiami.txt', 'w') as fh:
             fh.write(wstr)
-
-
-    
